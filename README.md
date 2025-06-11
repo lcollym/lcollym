@@ -20,7 +20,6 @@
 
 ## 📫 Cómo contactarme
 
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🐦 [Twitter](https://twitter.com/tuusuario)
-- 📧 tuemail@ejemplo.com
+- 💼 [LinkedIn](www.linkedin.com/in/luis-rafael-collymoore-a77539189)
+- 📧 lcollymoore@gmail.com
 
