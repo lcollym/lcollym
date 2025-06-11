@@ -24,8 +24,3 @@
 - 🐦 [Twitter](https://twitter.com/tuusuario)
 - 📧 tuemail@ejemplo.com
 
----
-
-<p align="center">
-  ¡Gracias por visitar mi perfil! 😊
-</p>
