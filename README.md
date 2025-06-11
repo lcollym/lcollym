@@ -20,6 +20,6 @@
 
 ## 📫 Cómo contactarme
 
-- 💼 [LinkedIn](www.linkedin.com/in/luis-rafael-collymoore-a77539189)
+- 💼 [LinkedIn]([www.linkedin.com/in/luis-rafael-collymoore-a77539189](http://www.linkedin.com/in/luis-rafael-collymoore-a77539189))
 - 📧 lcollymoore@gmail.com
 
