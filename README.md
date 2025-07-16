@@ -13,7 +13,6 @@
 * 🖥️ .NET / C#
 * ⚙️ Angular
 * 🐍 Python
-* 🦫 Go (Golang)
 
 ---
 
